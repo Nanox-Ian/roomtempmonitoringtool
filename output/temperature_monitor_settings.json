@@ -1,0 +1,5 @@
+{
+    "critical_temp": 35.0,
+    "warning_temp": 30.0,
+    "temperature_adjustment": 13.0
+}
