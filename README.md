@@ -365,3 +365,16 @@ pip freeze > requirements.txt
 ```
 
 ---
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/66a1b230-0b4a-4075-9e4a-b2ea8d05ccef" />
+<img width="1362" height="727" alt="image" src="https://github.com/user-attachments/assets/ef3b326a-14d0-4cd1-8ebb-2150d6f249a1" />
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/63b0164c-76fb-4969-84c7-cc3ec20c5a9f" />
+<img width="1365" height="735" alt="image" src="https://github.com/user-attachments/assets/2371cfbf-ee49-48c6-8eb8-fa848aba41ab" />
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/898b9bf0-8788-4909-9538-a84966458246" />
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/748aa274-0a8d-4086-ac5f-76d31cfd613d" />
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/fa12a930-33d3-4ab1-a0f3-025630eb0034" />
+
+
+
+
+
+
